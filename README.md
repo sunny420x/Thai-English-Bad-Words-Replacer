@@ -1,6 +1,6 @@
 <h1>Thai and English bad words replacer.</h1>
 <p>
-This is a badwords replacer function for Javascript which is using RegEx to match all listed badwords. You can modified, added remove the list the way you likes!
+This is a badwords replacer function for JavaScript, This function using RegEx to match all listed badwords. You can also modify, add or remove the items from wordlist the ways you likes!
 </p>
 <h2>Usage:</h2>
 <p>
