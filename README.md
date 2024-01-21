@@ -13,7 +13,5 @@ In HTML Head:
 In your JS file.
 </p>
 <pre>
-<code>
-text = DetectBadWord(text)
-</code>
+<code>text = DetectBadWord(text)</code>
 </pre>
