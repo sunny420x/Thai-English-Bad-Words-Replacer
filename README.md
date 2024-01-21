@@ -7,9 +7,7 @@ This is a function for Javascript.
 In HTML Head:
 </p>
 <pre>
-<code>
-    <script src="./badwords.js"></script>
-</code>
+<code><script src="./badwords.js"></script></code>
 </pre>
 <p>
 In your JS file.
